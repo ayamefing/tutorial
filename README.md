@@ -80,3 +80,7 @@ https://crowdin.com/project/django-girls-tutorial
 如果你在crowdin的列表里没看到自己的语言，请以[新开issue][6]的方式通知我们，以便我们加进去。
 
  [6]: https://github.com/DjangoGirls/tutorial/issues/new
+
+![图0.7][7]
+
+ [7]: images/store.djangogirls.png
