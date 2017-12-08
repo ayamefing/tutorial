@@ -81,6 +81,8 @@ https://crowdin.com/project/django-girls-tutorial
 
  [6]: https://github.com/DjangoGirls/tutorial/issues/new
 
+## 支持我们
+
 [![图0.7][7]][8]
 
  [7]: images/store.djangogirls.png
