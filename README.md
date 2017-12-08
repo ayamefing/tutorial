@@ -83,4 +83,6 @@ https://crowdin.com/project/django-girls-tutorial
 
 ## 支持我们
 
-[![图0.7](images/store.djangogirls.png "支持我们")](https://store.djangogirls.org/)
+[![支持我们](images/store.djangogirls.png "支持我们")](https://store.djangogirls.org/)
+
+[store.djangogirls](https://store.djangogirls.org/)
