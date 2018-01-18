@@ -1,5 +1,7 @@
 # Django Girls 教程
 
+> 本开源书 forked from [Django Girls 教程](https://github.com/DjangoGirls/tutorial)，作者为 [DjangoGirls](https://github.com/DjangoGirls)，欢迎大家 star 原作者的 [repo](https://github.com/DjangoGirls/tutorial)，以便获得最新更新，谢谢！
+
  [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > 这项工作是根据公共创意贡献署名国际协议4.0的要求完成的。若要查看本许可证的副本，请访问https://creativecommons.org/licenses/by-sa/4.0/
